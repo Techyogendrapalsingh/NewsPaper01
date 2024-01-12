@@ -174,9 +174,9 @@ function pagee(){
     <div class="nwes">
     <div class="row">
         <div class="col01">
-        <img src="images/ghazi.webp" alt="">
+        <img src="ghazi.webp" alt="">
         
-        <img src="images/die.webp" alt=""width="30%">
+        <img src="die.webp" alt=""width="30%">
         
         
         </div>
