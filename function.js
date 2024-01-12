@@ -54,7 +54,7 @@ function post(){
 <h1>MAY THE FORCE BE WITH YOU</h1>
 <p>Partially, but it also obeys your commands. Hey, Luke! May the Force be with you. I have traced the Rebel spies to her. Now she is my only link to finding their secret base.</p>
 
-<img src="images/baby02.avif" alt="banner" width="100%">  
+<img src="baby02.avif" alt="banner" width="100%">  
     </div>
     
     `)
@@ -65,7 +65,7 @@ function post01(){
     <div class="post01">
     <h1>GIVE PEOPLE COURAGE</h1>
     <p>The sunset faded to twilight before anything further happened. The crowd far away on the left, towards Woking, seemed to grow, and I heard now a faint murmur from it. The little knot of people towards Chobham dispersed. There was scarcely an intimation of movement from the pit.</p>
-    <img src="images/baby01.avif" alt="banner" width="100%">
+    <img src="baby01.avif" alt="banner" width="100%">
     <p>It was this, as much as anything, that gave people courage, and I suppose the new arrivals from Woking also helped to restore confidence. At any rate, as the dusk came on a slow, intermittent movement upon the sand pits began, a movement that seemed to gather force as the stillness of the evening about the cylinder remained unbroken. Vertical black figures in twos and threes would advance, stop, watch, and advance again, spreading out as they did so in a thin irregular crescent that promised to enclose the pit in its attenuated horns. I, too, on my side began to move towards the pit.
 
     Then I saw some cabmen and others had walked boldly into the sand pits, and heard the clatter of hoofs and the gride of wheels. I saw a lad trundling off the barrow of apples. And then, within thirty yards of the pit, advancing from the direction of Horsell, I noted a little black knot of men, the foremost of whom was waving a white flag.</p>
@@ -80,9 +80,9 @@ function news(){
     <div class="nwes">
     <div class="row">
         <div class="col01">
-        <img src="images/trainhit.avif" alt=""width="30%">
+        <img src="trainhit.avif" alt=""width="30%">
         
-        <img src="images/gun.jpg" alt=""width="30%">
+        <img src="gun.jpg" alt=""width="30%">
         
         
         </div>
@@ -124,7 +124,7 @@ function contact(){
         </div>
         <div class="col">
         <div class="conti">
-            <img src="images/contactus.avif" alt="">
+            <img src="contactus.avif" alt="">
         </div>
         </div>
     </div>
